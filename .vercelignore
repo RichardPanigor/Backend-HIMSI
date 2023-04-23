@@ -1,1 +1,5 @@
 /vendor
+/node modules
+/storage
+/bootstrap
+/tests
