@@ -1,5 +1,6 @@
 /node_modules
 /resources
 /routes
-/storage/tests
+/storage
+/tests
 /vendor
